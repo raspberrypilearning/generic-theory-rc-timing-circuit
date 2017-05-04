@@ -1,1 +1,2 @@
-# generic-rc-timing-circuit
+# generic-rc-timing-circuit 
+Some readme content
