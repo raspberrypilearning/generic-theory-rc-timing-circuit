@@ -1,0 +1,10 @@
+title: generic-rc-timing-circuit
+hero_image: images/banner.png
+subtitle: generic-rc-timing-circuit subtitle
+description: generic-rc-timing-circuit description
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+theme: cc-prototype
+published: false
+steps:
+  - title: Step one
+    duration: 60
