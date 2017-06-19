@@ -1,4 +1,4 @@
-title: generic-rc-timing-circuit
+title: RC Timing theory
 hero_image: images/banner.png
 subtitle: generic-rc-timing-circuit subtitle
 description: generic-rc-timing-circuit description
@@ -6,5 +6,5 @@ original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
 published: false
 steps:
-  - title: Step one
-    duration: 60
+  - title: RC Timing theory
+
