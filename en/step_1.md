@@ -1,5 +1,3 @@
-### RC Timing Circuits
-
 RC stands for **Resistor** and **Capacitor**. RC circuits have a variety of functions, but there is a way of using them to help digital devices read analogue components.
 In the timing circuit illustrated below, a 2.2kΩ resistor has been placed in series with a 1µF capacitor. They are connected to a 3.3V power supply and a switch has been used that can be pushed to short the circuit and **Earth** both the capacitor and the resistor.
 
