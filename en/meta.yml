@@ -1,10 +1,15 @@
-title: RC Timing theory
+title: RC timing theory
 hero_image: images/banner.png
-subtitle: generic-rc-timing-circuit subtitle
-description: generic-rc-timing-circuit description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: How RC timing circuits work
+original_url:
 theme: cc-prototype
-published: false
+duration: 1
+listed: false
+ingredient: true
+copyedit: false
+interests: ""
+technologies: "electronics"
 steps:
-  - title: RC Timing theory
+  - title: RC timing theory
+
 
